@@ -1,6 +1,6 @@
 # EhViewer (Fork App)
 
-![Icon](art/launcher_icon-web.png)
+<img src="./art/launcher_icon-web.png" width="20%"/>
 
 E-Hentai Android
 
@@ -8,27 +8,33 @@ An E-Hentai Application for Android.
 
 # Screenshot
 
-![screenshot-01](art/screenshot-01.png)
+<img src="./art/screenshot-01.png" width="40%"/>
 
 # Build
 
 Windows
 
-    > git clone https://github.com/seven332/EhViewer
+    > git clone https://github.com/vukpetrovich/EhViewer
     > cd EhViewer
     > gradlew app:assembleDebug
 
 Linux
 
-    $ git clone https://github.com/seven332/EhViewer
+    $ git clone https://github.com/vukpetrovich/EhViewer
     $ cd EhViewer
     $ ./gradlew app:assembleDebug
 
 The apk is in app\build\outputs\apk
 
+----------------
+
+Or use Android Studio
+
 # Download
 
-[Download](https://github.com/seven332/EhViewer/releases)
+[Download (Original app apk)](https://github.com/seven332/EhViewer/releases)
+
+[Download (Fork app apk (soon))](https://github.com/vukpetrovich/EhViewer/releases)
 
 # Thanks
 
