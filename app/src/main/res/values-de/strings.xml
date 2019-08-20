@@ -67,7 +67,6 @@
     <string name="error_out_of_range">Außer Reichweite</string>
     <string name="error_write_failed">Schreibfehler</string>
     <string name="error_parse_error">Analyzierungfehler</string>
-    <string name="error_509">509</string>
     <string name="error_invalid_url">URL ungültig</string>
     <string name="error_get_ptoken_error">Fehler beim Erhalten pTokens</string>
     <string name="error_cant_create_temp_file">Die Temporäre Datei konnte erstellt nicht werden</string>
@@ -487,7 +486,6 @@
     <string name="settings_advanced_built_in_hosts_title">Standard-hosts.txt</string>
     <string name="settings_download_pick_dir_kk">Die App kann keine Daten auf Android 4.4 zum externen Speicher beschreiben, wenn du das System nicht hackst. Sie aber kann zu /Android/data/com.hippo.ehviewer beschreiben.</string>
     <string name="settings_about_website">Webseite</string>
-    <string name="settings_about_declaration" translatable="false">EhViewer</string>
     <string name="settings_about_declaration_summary">EhViewer verbindet sich in keiner Weise mit E-Hentai.org.</string>
     <string name="settings_about_source">Quellcode</string>
     <string name="settings_about_changelog">Änderungsprotokoll</string>
@@ -528,7 +526,6 @@
     <string name="settings_about">Über die App</string>
     <string name="settings_about_author">Entwickler</string>
     <string name="settings_about_latest_release">Aktuelle Version</string>
-    <string name="settings_about_telegram">Telegram</string>
     <string name="settings_advanced_built_in_hosts_summary">Host auf die IP, die nach die App festgelegt werden, umstellen\nKann von angepasstem hosts.txt überschrieben werden</string>
     <string name="settings_advanced_custom_hosts_title">Angepasstes hosts.txt</string>
     <string name="settings_advanced_custom_hosts_summary">Hostname auf die angepassten IP umstellen\nDie Regeln können die von der App festgelegt überschreiben</string>
@@ -540,8 +537,6 @@
     <string name="settings_eh_theme_black">Schwarz</string>
     <string name="settings_eh_apply_nav_bar_theme_color">Theme-Farbe in Navigation-Bar anwenden</string>
     <string name="settings_about_donate_message">Du bekommest kein Privileg davon. Deine Spende hilft mir dabei, diese App instand zu halten.</string>
-    <string name="settings_about_donate_alipay">Alipay</string>
-    <string name="settings_about_donate_paypal">PayPal</string>
     <string name="settings_about_donate_open">Öffnen</string>
     <string name="settings_about_donate_copy">Kopieren</string>
     <string name="settings_about_donate_copied">Kopiert</string>

@@ -9,14 +9,14 @@ android {
     compileSdkVersion 28
 
     defaultConfig {
-        applicationId "com.hippo.ehviewer"
+        applicationId "com.hippo.ehviewer.fork"
         minSdkVersion 14
         targetSdkVersion 28
-        versionCode 104
-        versionName "1.7.3"
+        versionCode 1051
+        versionName "1.7.4.1"
         vectorDrawables.useSupportLibrary = true
         resConfigs "zh", "zh-rCN", "zh-rHK", "zh-rTW",
-                "es", "ja", "ko", "fr", "de", "th"
+                "es", "ja", "ko", "fr", "de", "ru", "th"
         testOptions.unitTests.includeAndroidResources = true
         ndk {
             abiFilters "armeabi-v7a", "x86"

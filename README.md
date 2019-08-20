@@ -1,20 +1,14 @@
-# DEPRECATED
-
-[![Telegram](https://img.shields.io/badge/chat-Telegram-blue.svg)](https://t.me/ehviewer)
-
-# EhViewer
+# EhViewer (Fork App)
 
 ![Icon](art/launcher_icon-web.png)
 
-这是一个 E-Hentai Android 平台的浏览器。
+E-Hentai Android
 
 An E-Hentai Application for Android.
-
 
 # Screenshot
 
 ![screenshot-01](art/screenshot-01.png)
-
 
 # Build
 
@@ -30,21 +24,13 @@ Linux
     $ cd EhViewer
     $ ./gradlew app:assembleDebug
 
-生成的 apk 文件在 app\build\outputs\apk 目录下
-
 The apk is in app\build\outputs\apk
-
 
 # Download
 
-[下载](https://github.com/seven332/EhViewer/releases)
-
 [Download](https://github.com/seven332/EhViewer/releases)
 
-
 # Thanks
-
-本项目受到了诸多开源项目的帮助
 
 Here is the libraries
 
@@ -63,7 +49,6 @@ Here is the libraries
 - [Slabo](https://github.com/TiroTypeworks/Slabo)
 - [TagSoup](http://home.ccil.org/~cowan/tagsoup/)
 
-
 # License
 
     Copyright (C) 2014-2019 Hippo Seven
@@ -79,5 +64,3 @@ Here is the libraries
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
-
-ic_launcher 图标为 Hippo Seven 所有，所有权利保留

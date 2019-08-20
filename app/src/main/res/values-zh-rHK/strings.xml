@@ -84,7 +84,6 @@
     <string name="error_out_of_range">越界</string>
     <string name="error_write_failed">寫入失敗</string>
     <string name="error_parse_error">解析失敗</string>
-    <string name="error_509">509</string>
     <string name="error_invalid_url">無效鏈接</string>
     <string name="error_get_ptoken_error">獲取 pToken 錯誤</string>
     <string name="error_cant_create_temp_file">無法創建臨時文件</string>
@@ -577,8 +576,6 @@
     <string name="settings_about_license_summary">EhViewer 的誕生離不開許多開源項目</string>
     <string name="settings_about_donate">捐贈</string>
     <string name="settings_about_donate_message">你的捐贈不能為你帶來特權，但能幫助我繼續維護這個應用。</string>
-    <string name="settings_about_donate_alipay">支付寶</string>
-    <string name="settings_about_donate_paypal">PayPal</string>
     <string name="settings_about_donate_open">打開</string>
     <string name="settings_about_donate_copy">複製</string>
     <string name="settings_about_donate_copied">已複製</string>

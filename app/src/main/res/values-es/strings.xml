@@ -72,7 +72,6 @@
     <string name="error_out_of_range">Fuera de rango</string>
     <string name="error_write_failed">Falla en la escritura</string>
     <string name="error_parse_error">Análisis erróneo</string>
-    <string name="error_509">509</string>
     <string name="error_invalid_url">Url invalida</string>
     <string name="error_get_ptoken_error">Error al obtener token</string>
     <string name="error_cant_create_temp_file">Imposible crear archivo temporal</string>

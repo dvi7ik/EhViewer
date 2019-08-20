@@ -83,7 +83,6 @@
     <string name="error_out_of_range">ไม่อยู่ในขอบเขต</string>
     <string name="error_write_failed">การเขียนล้มเหลว</string>
     <string name="error_parse_error">การวิเคราะห์ผิดพลาด</string>
-    <string name="error_509">509</string>
     <string name="error_invalid_url">URL ไม่ถูกต้อง</string>
     <string name="error_get_ptoken_error">การรับ pToken มีปัญหา</string>
     <string name="error_cant_create_temp_file">ไม่สามารถสร้างไฟล์ชั่วคราวได้</string>
@@ -519,11 +518,9 @@
     <string name="settings_advanced_import_data_successfully">การนำเข้าข้อมูลสำเร็จ</string>
 
     <string name="settings_about">เกี่ยวกับ</string>
-    <string name="settings_about_declaration" translatable="false">EhViewer</string>
     <string name="settings_about_declaration_summary">EhViewer ไม่มีความแตกต่างจากตัวเว็บ E-Hentai.org แต่อย่างใด</string>
     <string name="settings_about_author">นักพัฒนา</string>
     <string name="settings_about_author_summary" translatable="false">Hippo &lt;ehviewersu$gmail.com&gt;</string>
-    <string name="settings_about_telegram">Telegram</string>
     <string name="settings_about_website">เว็บไซต์</string>
     <string name="settings_about_source">ซอร์สโค้ด</string>
     <string name="settings_about_changelog">บันทึกการเปลี่ยนแปลง</string>
@@ -532,8 +529,6 @@
     <string name="settings_about_license_summary">EhViewer ต้องขอขอบคุณโครงการโอเพ่นซอร์สหลายๆโครงการเป็นอย่างสูง</string>
     <string name="settings_about_donate">บริจาค</string>
     <string name="settings_about_donate_message">เงินบริจาคของคุณจะไม่ได้บริการพิเศษ แต่จะทำให้แอปพัฒนาไปได้ไกลมากขึ้น</string>
-    <string name="settings_about_donate_alipay">Alipay</string>
-    <string name="settings_about_donate_paypal">PayPal</string>
     <string name="settings_about_donate_open">เปิดลิงค์</string>
     <string name="settings_about_donate_copy">คัดลอก</string>
     <string name="settings_about_donate_copied">คัดลอกแล้ว</string>

@@ -83,7 +83,6 @@
     <string name="error_out_of_range">범위 초과</string>
     <string name="error_write_failed">쓰기 실패</string>
     <string name="error_parse_error">구문 분석 오류</string>
-    <string name="error_509">509</string>
     <string name="error_invalid_url">잘못된 URL</string>
     <string name="error_get_ptoken_error">pToken 획득 오류</string>
     <string name="error_cant_create_temp_file">임시 파일을 만들 수 없음</string>
@@ -511,8 +510,6 @@
     <string name="settings_about_license_summary">EhViewer는 많은 오픈 소스 프로젝트 덕분에 만들 수 있었습니다.</string>
     <string name="settings_about_donate">후원</string>
     <string name="settings_about_donate_message">후원 특전은 따로 없습니다만, 제가 이 앱을 관리하는 데 도움이 됩니다.</string>
-    <string name="settings_about_donate_alipay">Alipay</string>
-    <string name="settings_about_donate_paypal">PayPal</string>
     <string name="settings_about_donate_open">열기</string>
     <string name="settings_about_donate_copy">복사</string>
     <string name="settings_about_donate_copied">클립보드에 복사했습니다.</string>
