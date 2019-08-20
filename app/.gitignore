@@ -1,5 +1,6 @@
 /src/main/assets/NOTICE.html
 /build
+/release
 /src/main/java-gen
 manifest-merger-release-report.txt
 /src/main/libs
