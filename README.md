@@ -32,9 +32,9 @@ Or use Android Studio
 
 # Download
 
-[Download (Original app apk)](https://github.com/seven332/EhViewer/releases)
+[Download (Fork app apk)](https://github.com/vukpetrovich/EhViewer/releases)
 
-[Download (Fork app apk (soon))](https://github.com/vukpetrovich/EhViewer/releases)
+[Download (Original app apk)](https://github.com/seven332/EhViewer/releases)
 
 # Thanks
 
