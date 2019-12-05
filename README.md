@@ -34,8 +34,6 @@ Or use Android Studio
 
 [Download (Fork app apk)](https://github.com/vukpetrovich/EhViewer/releases)
 
-[Download (Original app apk)](https://github.com/seven332/EhViewer/releases)
-
 # Thanks
 
 Here is the libraries
