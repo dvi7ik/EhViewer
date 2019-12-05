@@ -311,7 +311,7 @@
     <string name="key_category">Category</string>
     <string name="key_uploader">Uploader</string>
     <string name="key_posted">Posted</string>
-    <string name="key_parent" translatable="false">Parent</string>
+    <string name="key_parent">Parent</string>
     <string name="key_visible">Visible</string>
     <string name="key_language">Language</string>
     <string name="key_pages">Pages</string>
@@ -412,7 +412,7 @@
     <string name="filter_tag_namespace">Tag namespace</string>
     <string name="delete_filter">Delete blocker \"%s\"?</string>
     <string name="tip">Tip</string>
-    <string name="add_filter" translatable="false">Add blocker</string>
+    <string name="add_filter">Add blocker</string>
     <string name="show_definition">Show definition</string>
     <string name="filter_text">Blocker text</string>
     <string name="filter_tip">This blocking system filters the result of EHentai website blocking system.\n\nTitle Blocker: exclude the gallery whose title contains the word.\n\nUploader Blocker: exclude the gallery which was uploaded by the uploader.\n\nTag Blocker: exclude the gallery which contain the tag, it takes more time to get gallery list.\n\nTag Namespace Blocker: exclude the gallery which contain the tag namespace, it takes more time to get gallery list.</string>
@@ -433,9 +433,7 @@
 
     <!-- Hosts Activity -->
     <string name="hosts">Custom hosts.txt</string>
-    <string name="hosts_tip">hosts.txt</string>
     <string name="hosts_host">Host</string>
-    <string name="hosts_ip">IP</string>
     <string name="add_host">Add a host</string>
     <string name="add_host_add">Add</string>
     <string name="edit_host">Edit the host</string>
@@ -460,7 +458,7 @@
     <string name="share_image">Share image</string>
     <string name="image_saved">Image saved to %s</string>
 
-    <string name="settings_eh">EH</string>
+    <string name="settings_eh" translatable="false">EH</string>
     <string name="settings_eh_sign_out">Sign out</string>
     <string name="settings_eh_sign_out_summary">Restart the application to sign in</string>
     <string name="settings_eh_sign_out_warning">Do you really want to sign out?</string>
@@ -615,7 +613,7 @@
     <string name="settings_about_declaration" translatable="false">EhViewer</string>
     <string name="settings_about_declaration_summary">EhViewer is not affiliated with E-Hentai.org in any way</string>
     <string name="settings_about_author">Author</string>
-    <string name="settings_about_author_summary" translatable="false">Hippo &lt;ehviewersu$gmail.com&gt;</string>
+    <string name="settings_about_author_summary" translatable="false">Hippo (Original app)</string>
     <string name="settings_about_telegram" translatable="false">Telegram</string>
     <string name="settings_about_latest_release">Latest release</string>
     <string name="settings_about_website">Website</string>
@@ -780,4 +778,6 @@
     <string name="download_service">Download Service</string>
     <string name="favorite_name">Favorite</string>
     <string name="error_509" translatable="false">509</string>
+    <string name="hosts_ip" translatable="false">IP</string>
+    <string name="hosts_tip" translatable="false">hosts.txt</string>
 </resources>

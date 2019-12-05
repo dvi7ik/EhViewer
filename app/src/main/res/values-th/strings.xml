@@ -351,9 +351,7 @@
 
     <!-- Hosts Activity -->
     <string name="hosts">ปรับแต่ง hosts.txt เอง</string>
-    <string name="hosts_tip">hosts.txt</string>
     <string name="hosts_host">โฮสต์</string>
-    <string name="hosts_ip">ไอพี</string>
     <string name="add_host">เพิ่มโฮสต์</string>
     <string name="add_host_add">เพิ่ม</string>
     <string name="edit_host">แก้ไขโฮสต์</string>
@@ -373,7 +371,6 @@
     <string name="share_image">แชร์รูปภาพ</string>
     <string name="image_saved">ภาพถูกบันทึกไปที่ %s</string>
 
-    <string name="settings_eh">EH</string>
     <string name="settings_eh_sign_out">ออกจากระบบ</string>
     <string name="settings_eh_sign_out_summary">เริ่มแอปพลิเคชั่นใหม่เพื่อลงชื่อเข้าสู่ระบบ</string>
     <string name="settings_eh_sign_out_warning">คุณแน่ใจแล้วนะที่จะลงชื่อออกจากระบบ?</string>
@@ -520,7 +517,6 @@
     <string name="settings_about">เกี่ยวกับ</string>
     <string name="settings_about_declaration_summary">EhViewer ไม่มีความแตกต่างจากตัวเว็บ E-Hentai.org แต่อย่างใด</string>
     <string name="settings_about_author">นักพัฒนา</string>
-    <string name="settings_about_author_summary" translatable="false">Hippo &lt;ehviewersu$gmail.com&gt;</string>
     <string name="settings_about_website">เว็บไซต์</string>
     <string name="settings_about_source">ซอร์สโค้ด</string>
     <string name="settings_about_changelog">บันทึกการเปลี่ยนแปลง</string>

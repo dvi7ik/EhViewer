@@ -387,9 +387,7 @@
 
     <!-- Hosts Activity -->
     <string name="hosts">自定義 hosts.txt</string>
-    <string name="hosts_tip">hosts.txt</string>
     <string name="hosts_host">Host</string>
-    <string name="hosts_ip">IP</string>
     <string name="add_host">添加 host</string>
     <string name="add_host_add">添加</string>
     <string name="edit_host">編輯 host</string>
@@ -414,7 +412,6 @@
     <string name="image_saved">圖片已保存至 %s</string>
 
     <!-- Settings -->
-    <string name="settings_eh">EH</string>
     <string name="settings_eh_sign_out">退出登錄</string>
     <string name="settings_eh_sign_out_summary">退出登錄後重啟應用以便再次登錄</string>
     <string name="settings_eh_sign_out_warning">天哪，我的老夥計，你要退出登錄嗎？我是説，你真的要退出登錄嗎？</string>

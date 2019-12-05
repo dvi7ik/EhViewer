@@ -52,7 +52,6 @@
     <string name="settings_advanced">Расширенные</string>
     <string name="settings_about_website">Веб-сайт</string>
     <string name="settings_download">Загрузки</string>
-    <string name="settings_eh">EH</string>
     <string name="settings_privacy">Приватность</string>
     <string name="settings_read">Читалка</string>
     <string name="settings_read_screen_rotation">Ориентация экрана</string>
@@ -105,7 +104,7 @@
     <string name="search_sfl">Язык</string>
     <string name="search_sft">Теги</string>
     <string name="search_sr">Минимальный рейтинг</string>
-    <string name="search_enable_advance">Включить расширенный настройки</string>
+    <string name="search_enable_advance">Включить расширенные настройки</string>
     <string name="search_sp">Страниц:</string>
     <string name="search_sp_to">до</string>
     <string name="search_sp_suffix">от</string>
@@ -148,4 +147,29 @@
     <string name="settings_read_reading_direction_left_to_right">Справа налево</string>
     <string name="settings_read_reading_direction_right_to_Left">Слева направо</string>
     <string name="settings_read_reading_direction_top_to_bottom">Снизу вверх</string>
+    <string name="sign_in_failed">Войти не удалось</string>
+    <string name="settings_download_download_location">Папка загрузки</string>
+    <string name="settings_download_media_scan">Разрешить сканирование медиа</string>
+    <string name="settings_download_media_scan_summary_on">Пожалуйста, прячьте свою галерею от других :-)</string>
+    <string name="settings_download_media_scan_summary_off">Большинство приложений галерей не будут видеть ваши секреты</string>
+    <string name="settings_download_continue">Продолжить</string>
+    <string name="settings_advanced_export_data_failed">Экспортировать не удалось</string>
+    <string name="readme">ПРОЧТИ МЕНЯ</string>
+    <string name="apply">Принять</string>
+    <string name="clear_all_history">Очистить историю?</string>
+    <string name="clear_all">Очистить всё</string>
+    <string name="delete_downloads">Удалить загрузки</string>
+    <string name="hosts">Свой hosts.txt</string>
+    <string name="hosts_host">Хост</string>
+    <string name="password">Пароль</string>
+    <string name="original">Оригинал</string>
+    <string name="recaptcha_loading">Загрузка...</string>
+    <string name="search">Поиск</string>
+    <string name="search_image">Поиск изображения</string>
+    <string name="search_sfu">Загрузил</string>
+    <string name="search_normal">Простой поиск</string>
+    <string name="search_normal_search">Простой поиск</string>
+    <string name="search_sf">Отключить стандартный фильтр для:</string>
+    <string name="select_image">Выбрать изображение</string>
+    <string name="settings_about_license_summary">Приложение было создано благодаря следующим проектам с открытым исходным кодом</string>
 </resources>

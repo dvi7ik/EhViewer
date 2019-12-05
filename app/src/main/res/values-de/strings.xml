@@ -293,9 +293,7 @@
     <string name="apply">Übernehmen</string>
     <string name="apply_tip">Zum Speichern der Einstellungen auf Häkchen tippen</string>
     <string name="hosts">Angepasstes hosts.txt</string>
-    <string name="hosts_tip">hosts.txt</string>
     <string name="hosts_host">Host</string>
-    <string name="hosts_ip">IP</string>
     <string name="add_host">Host hinzufügen</string>
     <string name="add_host_add">Hinzufügen</string>
     <string name="edit_host">Host bearbeiten</string>
@@ -312,7 +310,6 @@
     <string name="gallery_menu_title">Menü</string>
     <string name="share_image">Das Bild teilen</string>
     <string name="image_saved">Das Bild wurde zu %s gespeichert</string>
-    <string name="settings_eh">EH</string>
     <string name="settings_eh_sign_out">Abmelden</string>
     <string name="settings_eh_sign_out_summary">Starte die App neu, um dich weiter anzumelden</string>
     <string name="settings_eh_sign_out_warning">Möchtest du dich abmelden?</string>
@@ -547,5 +544,6 @@
     <string name="settings_eh_identity_cookies_copy">Kopieren</string>
     <string name="settings_eh_show_gallery_pages">Galerieseitenzahl anzeigen</string>
     <string name="settings_eh_show_gallery_pages_summary">Die Galerieseitenzahle in der Galerieliste anzeigen</string>
-    
+    <string name="language_german">Deutsch</string>
+
 </resources>

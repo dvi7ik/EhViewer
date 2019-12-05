@@ -374,7 +374,6 @@
     <string name="image_saved">画像は%sに保存されました</string>
 
     <!-- Settings -->
-    <string name="settings_eh">EH</string>
     <string name="settings_eh_sign_out">ログアウト</string>
     <string name="settings_eh_sign_out_summary">ログアウト後にアプリを再起動して、もう一度ログインしてください。</string>
     <string name="settings_eh_sign_out_warning">本当にログアウトしますか？</string>
@@ -651,9 +650,7 @@
     <string name="settings_advanced_proxy_summary_1">%1$s %2$s：%3$d</string>
     <string name="settings_advanced_proxy_summary_2">%1$s</string>
     <string name="hosts">カスタムhosts.txt</string>
-    <string name="hosts_tip">hosts.txt</string>
     <string name="hosts_host">ホスト</string>
-    <string name="hosts_ip">IP</string>
     <string name="add_host">ホストを追加</string>
     <string name="add_host_add">追加</string>
     <string name="edit_host">ホストを編集</string>
