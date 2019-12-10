@@ -326,7 +326,6 @@
     <string name="share_image">Compartir imagen</string>
     <string name="image_saved">Imagen guardada en  %s</string>
 
-    <string name="settings_eh">EH</string>
     <string name="settings_eh_sign_out">Cerrar sesión</string>
     <string name="settings_eh_sign_out_summary">Deberás reiniciar la aplicación</string>
     <string name="settings_eh_sign_out_warning">¿Estás seguro de cerrar sesión?</string>
@@ -507,7 +506,6 @@
     <string name="language_spanish">Español</string>
     <string name="language_thai">Tailandés</string>
     <string name="language_vietnamese">Vietnamita</string>
-    <string name="language_na">N/A</string>
     <string name="language_other">Otros</string>
 
     <string name="please_wait">Espere</string>
@@ -625,9 +623,7 @@
     <string name="apply">Aplicar</string>
     <string name="apply_tip">Toca la marca de verificación para guardar los cambios</string>
     <string name="hosts">hosts.txt personalizado </string>
-    <string name="hosts_tip">hosts.txt</string>
     <string name="hosts_host">Anfitrión</string>
-    <string name="hosts_ip">IP</string>
     <string name="add_host">Añadir una anfitrión</string>
     <string name="add_host_add">Añadir</string>
     <string name="edit_host">Anfitrión</string>
